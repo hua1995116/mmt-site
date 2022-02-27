@@ -4,9 +4,7 @@ import { Base } from '../templates/Base';
 
 const Index = () => {
   // const { t } = useTranslation('common')
-  return (
-    <Base />
-  )
+  return <Base />
 };
 
 export const getStaticProps = async ({ locale }: any) => ({
