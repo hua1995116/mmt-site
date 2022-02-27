@@ -18,7 +18,7 @@ const VerticalFeatures = () => {
       />
       <VerticalFeatureRow
         title={t('feature-2')}
-        description={t('feature-1-c')}
+        description={t('feature-2-c')}
         image="/assets/images/feature2.svg"
         imageAlt="Second feature alt text"
         reverse
