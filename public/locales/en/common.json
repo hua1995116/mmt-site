@@ -1,0 +1,16 @@
+{
+  "title1": "A modern task manager",
+  "title2": "For developers",
+  "sub-title": "Improve your efficiency in handling tasks.",
+  "start-btn": "Getting Started",
+  "feature-over": "Function column",
+  "feature-over-sub": "The following is an introduction to commonly used functions, you can also freely explore.",
+  "feature-1": "Graceful start",
+  "feature-1-c": "This is annoying when you are faced with a project that needs to start two commands. For example `npm run client`, `npm run server` We hope to use mmt to help you start services more gracefully",
+  "feature-2": "Simplified operation",
+  "feature-2-c": "Whenever we need to switch projects, there are some pre-made environments and mmt can help us handle those situations. For example, one of my local projects needs to depend on two container environments 80d22f21e807 and 90d22f21e807. At this time, running mmt will automatically execute the command.",
+  "feature-3": "复用命令",
+  "feature-3-c": "复用命令",
+  "feature-4": "Data portability",
+  "feature-4-c": "Support import and export, so that your commands can be shared with your friends."
+}
