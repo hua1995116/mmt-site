@@ -17,7 +17,7 @@ const Hero = () => {
       <Section yPadding="py-6">
         <NavbarTwoColumns logo={null}>
           <li>
-            <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
+            <Link href="https://github.com/hua1995116/mmt">
               <a>GitHub</a>
             </Link>
           </li>
@@ -42,7 +42,7 @@ const Hero = () => {
           }
           description={ t('sub-title') }
           button={
-            <Link href="https://www.buymeacoffee.com/qiufeng">
+            <Link href="https://github.com/hua1995116/mmt">
               <a>
                 <Button xl>{ t('start-btn') }</Button>
               </a>
