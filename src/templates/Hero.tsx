@@ -42,7 +42,7 @@ const Hero = () => {
           }
           description={ t('sub-title') }
           button={
-            <Link href="https://creativedesignsguru.com/category/nextjs/">
+            <Link href="https://www.buymeacoffee.com/qiufeng">
               <a>
                 <Button xl>{ t('start-btn') }</Button>
               </a>
