@@ -13,7 +13,7 @@ const VerticalFeatures = () => {
       <VerticalFeatureRow
         title={t('feature-1')}
         description={t('feature-1-c')}
-        url="https://cdn.mdedit.online/mmt/feature-1.gif"
+        url="https://cdn.mdedit.online/mmt/feature-1-1.gif"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
