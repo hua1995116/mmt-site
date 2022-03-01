@@ -13,20 +13,20 @@ const VerticalFeatures = () => {
       <VerticalFeatureRow
         title={t('feature-1')}
         description={t('feature-1-c')}
-        image="/assets/images/feature.svg"
+        url="https://cdn.mdedit.online/mmt/feature-1-1.mp4"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
         title={t('feature-2')}
         description={t('feature-2-c')}
-        image="/assets/images/feature2.svg"
+        url="https://cdn.mdedit.online/mmt/feature-2.mp4"
         imageAlt="Second feature alt text"
         reverse
       />
       <VerticalFeatureRow
         title={t('feature-4')}
         description={t('feature-4-c')}
-        image="/assets/images/feature3.svg"
+        url="https://cdn.mdedit.online/mmt/feature-3.mp4"
         imageAlt="Third feature alt text"
       />
     </Section>
