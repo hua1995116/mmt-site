@@ -28,7 +28,7 @@ const VerticalFeatureRow = (props: IVerticalFeatureRowProps) => {
       </div>
 
       <div className="w-full sm:w-1/2 p-6">
-        <video autoPlay loop src={props.url}></video>
+        <video muted autoPlay loop src={props.url}></video>
         {/* <img src={`${router.basePath}${props.image}`} alt={props.imageAlt} /> */}
       </div>
     </div>
