@@ -13,21 +13,28 @@ const VerticalFeatures = () => {
       <VerticalFeatureRow
         title={t('feature-1')}
         description={t('feature-1-c')}
-        url="https://cdn.mdedit.online/mmt/feature-1-1.gif"
+        url="https://cdn.mdedit.online/mmt/case1.gif"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
         title={t('feature-2')}
         description={t('feature-2-c')}
-        url="https://cdn.mdedit.online/mmt/feature-2.gif"
+        url="https://cdn.mdedit.online/mmt/case2.gif"
         imageAlt="Second feature alt text"
         reverse
+      />
+      <VerticalFeatureRow
+        title={t('feature-3')}
+        description={t('feature-3-c')}
+        url="https://cdn.mdedit.online/mmt/case3.gif"
+        imageAlt="Second feature alt text"
       />
       <VerticalFeatureRow
         title={t('feature-4')}
         description={t('feature-4-c')}
         url="https://cdn.mdedit.online/mmt/feature-3.gif"
         imageAlt="Third feature alt text"
+        reverse
       />
     </Section>
   )
